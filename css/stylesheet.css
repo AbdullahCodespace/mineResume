@@ -1,0 +1,21 @@
+#containing{
+    background-color: aqua;
+    height: 1500px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#nested1{
+    background-color:chocolate;
+    height: 100px;
+}
+
+#nested2{
+    background-color:rgb(210, 30, 84);
+    height: 100px;
+}
+
+#nested3{
+    background-color:rgb(33, 30, 210);
+    height: 100px;
+}
