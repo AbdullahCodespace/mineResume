@@ -1,8 +1,8 @@
 #containing{
-    background-color: greenyellow;
+    background-color: royalblue;
     height: 1500px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
 #nested1{
